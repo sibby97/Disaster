@@ -11,11 +11,12 @@ During the time people are stuck, they can contribute to the database which will
 Locality (approx 5000 sq. ft.) with attributes: safe parts, images, people in the locality, safety value (generated), last modified time.
 
 ### Input
-*Image template used to mark the safe parts of locality. The sections are marked safe, unsafe or unknown.
-![Locality info](https://raw.githubusercontent.com/sibby97/Disaster/master/images/area_layout.png "Locality info")
+Markup:
+        *Image template used to mark the safe parts of locality. The sections are marked safe, unsafe or unknown.
+        ![Locality info](https://raw.githubusercontent.com/sibby97/Disaster/master/images/area_layout.png "Locality info")
 
-*Other images of the area are also taken as input so that the rescuers are prepared for the search/rescue operation.
-*The number of people in the area, to get an estimate of the people in the area.
+        *Other images of the area are also taken as input so that the rescuers are prepared for the search/rescue operation.
+        *The number of people in the area, to get an estimate of the people in the area.
 
 ## Assumptions
 People have access to internet and they have their smartphones to use the application. This set of assumptions is applicable for disasters such as flood, volcanic eruption, acts of terrors, landslide, earthquake etc.
