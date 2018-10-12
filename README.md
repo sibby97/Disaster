@@ -8,12 +8,12 @@ During the time of a disaster like flood, volcanic eruption etc where people are
 During the time people are stuck, they can contribute to the database which will help to get a deeper information about their surroundings. This can help them in getting their location information to the database to secure their rescue as well as contributes information of their surroundings so that the rescue team has a better understanding of the area.
 
 ### DataBase
-Locality (approx 5000 sq. ft.) with attributes: safe parts, images, people in the locality, safety value (generated), last modified time.
+Locality (approx 5000 sq. ft.) with attributes: safe sections, images, people in the locality, safety value (generated), last modified time.
 
 ### Input
-       * Image template used to mark the safe parts of locality. The sections are marked safe, unsafe or unknown.     
-       ![Locality info](https://raw.githubusercontent.com/sibby97/Disaster/master/images/area_layout.png "Locality info")
-       
+Image template used to mark the safe parts of locality.
+![Locality info](https://raw.githubusercontent.com/sibby97/Disaster/master/images/area_layout.png "Locality info")
+       * Safe sections of the Locality. The sections are marked safe, unsafe or unknown.
        * Other images of the area are also taken as input so that the rescuers are prepared for the search/rescue operation.
        * The number of people in the area, to get an estimate of the people in the area.
 
