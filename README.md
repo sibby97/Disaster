@@ -7,5 +7,8 @@ During the time of a disaster like flood, volcanic eruption etc where people are
 ## Solution
 During the time people are stuck, they can contribute to the database which will help to get a deeper information about their surroundings. This can help them in getting their location information to the database to secure their rescue as well as contributes information of their surroundings so that the rescue team has a better understanding of the area.
 
+### DataBase
+Subarea (approx 5000 sq. ft.) with attributes: safe track (image template used by users to mark the safest path to approach the location, images, people in the subarea, safety value (generated), update time.
+
 ## Assumptions
 People have access to internet and they have their smartphones to use the application. This set of assumptions is applicable for disasters such as flood, volcanic eruption, acts of terrors, landslide, earthquake etc.
