@@ -10,7 +10,7 @@ During the time people are stuck, they can contribute to the database which will
 ### DataBase
 Locality (approx 5000 sq. ft.) with attributes: safe parts (image template used to mark the safe parts of locality), images, people in the locality, safety value (generated), update time.
 
-![Alt text](images/area (2) (1).png?raw=true "Title")
+![Alt text](https://github.com/sibby97/Disaster/tree/master/images/area_layout.png?raw=true "Locality info")
 
 ## Assumptions
 People have access to internet and they have their smartphones to use the application. This set of assumptions is applicable for disasters such as flood, volcanic eruption, acts of terrors, landslide, earthquake etc.
